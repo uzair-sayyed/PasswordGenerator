@@ -17,6 +17,7 @@
 
 body{
     background-color: rgb(69, 100, 108);
+    padding: 10px;
 }
 .modal{
     background-color: cadetblue;
