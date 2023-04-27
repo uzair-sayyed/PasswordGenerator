@@ -13,12 +13,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 15px;
 }
 
 body{
     background-color: rgb(69, 100, 108);
-    padding: 10px;
+    padding: 20px;
 }
 .modal{
     background-color: cadetblue;
